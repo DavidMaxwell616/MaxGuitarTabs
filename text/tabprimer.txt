@@ -1,0 +1,190 @@
+MAX'S GUITAR TABLATURE PRIMER
+-----------------------------
+
+Guitar Tab, for you beginners, is a "six-line staff that graphically  
+represents the guitar fingerboard, with the top line indicating the 
+highest sounding string (high E). By placing a number on the 
+appropriate line, the string and fret of any note can be 
+indicated. The number 0 represents an open string."
+
+first string (High E) --------------|-------------------------|----0------
+second string      B  --------------|---------10--------------|----0------
+third string       G  --------------|----------9--------------|----1------
+fourth string      D  --------------|-------------------------|----2------
+fifth string       A  ----3---------|-------------------------|----2------
+sixth string (Low  E) --------------|-------------------------|----0------
+                        5th string, | 3rd string, 9th fret    | an E chord
+                        3rd fret    | & 2nd string, 10th fret |
+                                    | played together         |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1. Bending
+
+Strike the note and bend up ½ step (one fret).
+----------------------------
+----------------------------
+----------5(6)--------------
+----------------------------
+----------------------------
+----------------------------
+
+whole step bend (two frets)
+----------------------------
+----------------------------
+---------5(7)---------------
+----------------------------
+----------------------------
+----------------------------
+
+2. Bend & Release
+
+Strike the note and bend up ½ (or whole) step, then release the 
+bend back to the original note. All three notes are tied, only 
+the first note is struck.
+
+----------------------------
+----------------------------
+---------5(7)5--------------
+----------------------------
+----------------------------
+----------------------------
+
+3. Pre-Bend
+strike note in bent ½ (or whole) step, then release.
+
+----------------------------
+----------------------------
+---------(7)5---------------
+----------------------------
+----------------------------
+----------------------------
+
+4. Unison Bend
+
+Strike the two note simultaneously and bend the lower note to the pitch of the higher.
+
+----------------------------
+--------5(7)----------------
+--------5(7)----------------
+----------------------------
+----------------------------
+----------------------------
+
+5. Vibrato
+
+Vibrate the note by rapidly bending and releasing the string 
+with a left-hand finger.
+
+----------------------------
+----------------------------
+-------10~~-----------------
+----------------------------
+----------------------------
+----------------------------
+
+6. Slide 1
+
+Strike the first note and then with the same left hand finger 
+move up the string to the second note. The second note is not struck.
+
+----------------------------
+----------------------------
+--------5/7-----------------
+----------------------------
+----------------------------
+----------------------------
+
+7. Slide 2
+
+Slide up to the note indicated from a few frets below.
+
+----------------------------
+----------------------------
+--------/7------------------
+----------------------------
+----------------------------
+----------------------------
+
+8. Hammer-On
+Strike the first (lower) note, then sound the 
+higher note with another finger by fretting it without picking.
+
+----------------------------
+----------------------------
+--------5h7-----------------
+----------------------------
+----------------------------
+----------------------------
+
+9. Pull-Off
+
+Place both fingers on the notes to be sounded. Strike the 1st (higher) note, then sound the lower note by pulling the finger off the higher note while keeping the lower note fretted.
+
+----------------------------
+----------------------------
+--------7p5-----------------
+----------------------------
+----------------------------
+----------------------------
+
+10. Trill
+Very rapidly alternate between the note indicated and the small note 
+shown in parentheses by hammering on and pulling off.
+
+----------------------------
+----------------------------
+--------5t7-----------------
+----------------------------
+----------------------------
+----------------------------
+
+11. Natural Harmonic
+With a left hand finger, lightly touch the string over the fret indicated then strike it. A chime-like sound is produced.
+
+       harm. 
+-------12-------------------
+-------12-------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+
+
+12. Artificial Harmonic
+
+Fret the note normally and set the harmonic by adding the right 
+hand thumb edge or index finger tip to the normal pick attack.
+
+      A.H.
+----------------------------
+----------------------------
+-------5---------------------
+----------------------------
+----------------------------
+----------------------------
+
+
+13. Tremolo Bar
+Drop the note by the number of steps indicated, then return 
+to original pitch.
+
+         trem.
+----------------------------
+----------------------------
+--------5\\\///-------------
+----------------------------
+----------------------------
+----------------------------
+
+14. Muffled (Muted) Strings
+Lay the left hand across the strings without depressing them 
+to the fret board; strike the strings with the right hand, 
+producing a percussive sound.
+
+----------------------------
+----------------------------
+---------x------------------
+---------x------------------
+---------x------------------
+----------------------------

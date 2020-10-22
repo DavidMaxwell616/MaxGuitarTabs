@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+}
+
+* {
+  -moz-box-sizing: border-box;
+}
+
+body {
+  background-color: #483D8B;
+  color: #ffffff;
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+  font-family: "Arial";
+  font-size: 14px
+}
+
+/* visited link */
+a:visited {
+  color: orange;
+  font-family: "Arial";
+  font-size: 14px
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+  font-family: "Arial";
+  font-size: 14px
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+  font-family: "Arial";
+  font-size: 14px
+}
