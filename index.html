@@ -7,7 +7,7 @@
   <title>Max Guitar Tabs</title>
   <meta charset="utf-8">
  
-  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet"/>
+  <!-- <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet"/> -->
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
   <link rel="stylesheet" href="css/style.css"/>
@@ -15,7 +15,7 @@
     body {
     font-family: 'Poppins', sans-serif;
     background: #fafafa;
-    background-image: url(images/guitar.jpg);
+    background-image: url(images/guitar-light.jpg);
     }
     </style>
 </head>
@@ -145,16 +145,13 @@
 
     <!-- Page Content  -->
     <div id="content" class="p-4 p-md-5 pt-5">
-      <div id="header" class="md-5">
+      <div id="header">
         <img src="images/tabtitle.png">
       </div>
 
 
-      <div class="col-xs-12 col-sm-12 col-md-12">
-        <iframe id="mainFrame" style="width: 100vw;height: 100vh;position: relative;" 
-        src="pages/welcome.html" frameborder="0" allowfullscreen></iframe>
+        <iframe id="mainFrame" src="pages/welcome.html" frameborder="0" height="100%" width="100%" allowfullscreen="true"></iframe>
       </div>
-    </div>
     <script>
       function go(loc) {
         document.getElementById('mainFrame').src = loc;

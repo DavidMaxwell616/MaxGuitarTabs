@@ -446,6 +446,10 @@ h6,
   line-height: 1.2;
 }
 
+.mainFrame {
+  width: 1000;
+}
+
 .display-4 {
   font-size: 3.5rem;
   font-weight: 300;
@@ -11800,6 +11804,10 @@ h5,
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+.header {
+  width: 100%;
+}
+
 .navbar-btn {
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -11840,6 +11848,10 @@ h5,
 }
 
 #sidebar h2 .logo {
+  color: #fff;
+}
+
+#sidebar h3  {
   color: #fff;
 }
 
