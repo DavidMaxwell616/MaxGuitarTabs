@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>lightSlider Demo</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <link rel="stylesheet"  href="css/lightslider.css"/>
+    <style>
+    	ul{
+			list-style: none outside none;
+		    padding-left: 0;
+            margin: 0;
+		}
+        .demo .item{
+            margin-bottom: 60px;
+        }
+		.content-slider li{
+		    background-color: #ed3020;
+		    text-align: center;
+		    color: #FFF;
+		}
+		.content-slider h3 {
+		    margin: 0;
+		    padding: 70px 0;
+		}
+		.demo{
+			width: 800px;
+		}
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="js/lightslider.js"></script> 
+    <script>
+    	 $(document).ready(function() {
+			$("#content-slider").lightSlider({
+                loop:true,
+                keyPress:true
+            });
+            $('#image-gallery').lightSlider({
+                gallery:true,
+                item:1,
+                thumbItem:9,
+                slideMargin: 0,
+                speed:500,
+                auto:true,
+                loop:true,
+                onSliderLoad: function() {
+                    $('#image-gallery').removeClass('cS-hidden');
+                }  
+            });
+		});
+    </script>
+</head>
+<body>
+	<div class="demo">
+        <div class="item">            
+            <div class="clearfix" style="max-width:474px;">
+                <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
+
+<li data-thumb="thumbs/Ashley.jpg"> 
+    <img src="Ashley.jpg" />
+     </li>
+<li data-thumb="thumbs/Beth.jpg"> 
+    <img src="Beth.jpg" />
+     </li>
+<li data-thumb="thumbs/BabesAndWalter.jpg"> 
+    <img src="BabesAndWalter.jpg" />
+     </li>
+<li data-thumb="thumbs/BaldGuys.jpg"> 
+    <img src="BaldGuys.jpg" />
+     </li>
+<li data-thumb="thumbs/Fubar-StaffInfection.JPG"> 
+    <img src="Fubar-StaffInfection.JPG" />
+     </li>
+<li data-thumb="thumbs/TheErins.JPG"> 
+    <img src="TheErins.JPG" />
+     </li>
+<li data-thumb="thumbs/LaurenWorking.JPG"> 
+    <img src="LaurenWorking.JPG" />
+     </li>
+<li data-thumb="thumbs/GilAndHisHarem.JPG"> 
+    <img src="GilAndHisHarem.JPG" />
+     </li>
+<li data-thumb="thumbs/BobJohnny1.jpg"> 
+    <img src="BobJohnny1.jpg" />
+     </li>
+<li data-thumb="thumbs/BobbyBanks.jpg"> 
+    <img src="BobbyBanks.jpg" />
+     </li>
+<li data-thumb="thumbs/BoozeCruize05.jpg"> 
+    <img src="BoozeCruize05.jpg" />
+     </li>
+<li data-thumb="thumbs/BoysWorkingIt.jpg"> 
+    <img src="BoysWorkingIt.jpg" />
+     </li>
+<li data-thumb="thumbs/BuhLat.jpg"> 
+    <img src="BuhLat.jpg" />
+     </li>
+<li data-thumb="img/thumb/Carlo.jpg"> 
+    <img src="Carlo.jpg" />
+     </li>
+<li data-thumb="thumbs/DedriLaurenMaureen.jpg"> 
+    <img src="DedriLaurenMaureen.jpg" />
+     </li>
+<li data-thumb="thumbs/EdErinTamra.jpg"> 
+    <img src="EdErinTamra.jpg" />
+     </li>
+<li data-thumb="thumbs/EnglishChris.jpg"> 
+    <img src="EnglishChris.jpg" />
+     </li>
+<li data-thumb="thumbs/FlamencoNight.jpg"> 
+    <img src="FlamencoNight.jpg" />
+     </li>
+<li data-thumb="thumbs/FubarCrew1.jpg"> 
+    <img src="FubarCrew1.jpg" />
+     </li>
+<li data-thumb="thumbs/SweetGracieAndTheFatman.jpg"> 
+    <img src="SweetGracieAndTheFatman.jpg" />
+     </li>
+<li data-thumb="thumbs/Halloween-Hottie50.jpg"> 
+    <img src="Halloween-Hottie50.jpg" />
+     </li>
+<li data-thumb="thumbs/Halloween-OldGuys.jpg"> 
+    <img src="Halloween-OldGuys.jpg" />
+     </li>
+<li data-thumb="thumbs/ILoveFatChicks.jpg"> 
+    <img src="ILoveFatChicks.jpg" />
+     </li>
+<li data-thumb="thumbs/HotElyse.jpg"> 
+    <img src="HotElyse.jpg" />
+     </li>
+<li data-thumb="thumbs/JohnAmanda.jpg"> 
+    <img src="JohnAmanda.jpg" />
+     </li>
+<li data-thumb="thumbs/KangarooJack.jpg"> 
+    <img src="KangarooJack.jpg" />
+     </li>
+<li data-thumb="thumbs/MarshNic.jpg"> 
+    <img src="MarshNic.jpg" />
+     </li>
+<li data-thumb="thumbs/MoJust.jpg"> 
+    <img src="MoJust.jpg" />
+     </li>
+<li data-thumb="thumbs/NiceGuyEddie.jpg"> 
+    <img src="NiceGuyEddie.jpg" />
+     </li>
+<li data-thumb="thumbs/PartyGirls.jpg"> 
+    <img src="PartyGirls.jpg" />
+     </li>
+<li data-thumb="thumbs/Problem-Solution.JPG"> 
+    <img src="Problem-Solution.JPG" />
+     </li>
+<li data-thumb="thumbs/Saaid.jpg"> 
+    <img src="Saaid.jpg" />
+     </li>
+<li data-thumb="thumbs/SnowmanParting.jpg"> 
+    <img src="SnowmanParting.jpg" />
+     </li>
+<li data-thumb="thumbs/TheBoys.jpg"> 
+    <img src="TheBoys.jpg" />
+     </li>
+<li data-thumb="thumbs/TheBeers.jpg"> 
+    <img src="TheBeers.jpg" />
+     </li>
+<li data-thumb="thumbs/john_on_elimidate.jpg"> 
+    <img src="john_on_elimidate.jpg" />
+     </li>
+<li data-thumb="thumbs/shannon.jpg"> 
+    <img src="shannon.jpg" />
+     </li>
+                </ul>
+            </div>
+        </div>
+ 
+
+    </div>	
+
+</body>
+</html>

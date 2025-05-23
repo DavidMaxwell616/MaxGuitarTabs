@@ -1,0 +1,40 @@
+.lightbody {
+	COLOR: #ffffff
+}
+TD {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.footer:link {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+.footerstyle {
+	FONT-SIZE: 10px; COLOR: #e1dfc7
+}
+A.footer:visited {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+A.footer:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.formlabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #e1dfc7
+}
+.forminput {
+	BORDER-RIGHT: #6b5633 1px; BORDER-TOP: #6b5633 1px; BORDER-LEFT: #6b5633 1px; COLOR: #000033; BORDER-BOTTOM: #6b5633 1px
+}
+A.menu:link {
+	COLOR: #ffff99; TEXT-DECORATION: none
+}
+A.menu:hover {
+	COLOR: #cc9900; TEXT-DECORATION: none
+}
+A.menu:visited {
+	COLOR: #ffff99; TEXT-DECORATION: none
+}
+.menusize {
+	FONT-SIZE: 10px
+}
+.iframe{
+    overflow:hidden;
+frameBorder="0"
+}

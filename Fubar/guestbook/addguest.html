@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Add to Guestbook</title>
+</head>
+<BODY bgColor=#000000 link=#fa70fa text=#ffffff vLink=#fff000>
+<FONT face=arial>
+<center><img border="0" src="../images/fubartitle.gif" width="416" height="96"><br>
+<h2>Add to Guestbook</h2></center>
+
+<p><hr>
+<form method=POST action="/cgi/guestbook/guestbook.pl">
+<h4>Your Name:<input type=text name=realname size=30><br></h4>
+<h4>E-Mail: <input type=text name=username size=40><br></h4>
+<h4>URL: <input type=text name=url size=50><br></h4>
+<h4>City: <input type=text name=city size=15>, State: <input type=text name=state size=2> Country: <input type=text value=USA name=country size=15></h4>
+<p>
+Comments:<br>
+<h4><textarea name=comments COLS=60 ROWS=4></textarea></h4><p>
+<input type=submit> * <input type=reset>
+</form>
+</html>
+

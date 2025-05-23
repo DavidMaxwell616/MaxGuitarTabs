@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SIMPLEVIEWER_DATA
+ maxImageDimension="480"
+ enableRightClickOpen="true"
+ textColor="0xFFFFFF"
+ frameColor="0xFFFFFF"
+ bgColor="0x181818"
+ frameWidth="20"
+ stagePadding="40"
+ thumbnailColumns="3"
+ thumbnailRows="3"
+ navPosition="right"
+ navDirection="LTR"
+ title="Fubar Rogues Gallery"
+ imagePath="../"
+ thumbPath="../thumbs/"
+>
+
+
+<IMAGE>
+	<NAME>Ashley.jpg</NAME>
+	<CAPTION>Ashley</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>Beth.jpg</NAME>
+	<CAPTION>Beth</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>BabesAndWalter.jpg</NAME>
+	<CAPTION>Babes And Walter</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>BaldGuys.jpg</NAME>
+	<CAPTION>Bald Guys</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>BikerVicky.jpg</NAME>
+	<CAPTION>Biker Vicky</CAPTION>
+</IMAGE>
+
+
+<IMAGE>
+	<NAME>BombsAway.jpg</NAME>
+	<CAPTION>Bombs Away</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>Fubar-StaffInfection.JPG</NAME>
+	<CAPTION>Fubar - Staff Infection</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>TheErins.JPG</NAME>
+	<CAPTION>The Erins</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>LaurenWorking.JPG</NAME>
+	<CAPTION>Lauren Working</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>GilAndHisHarem.JPG</NAME>
+	<CAPTION>Gil And His Harem</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>BobJohnny1.jpg</NAME>
+	<CAPTION>Bob Johnny</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>BobbyBanks.jpg</NAME>
+	<CAPTION>Bobby Banks</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>BoozeCruize05.jpg</NAME>
+	<CAPTION>Booze Cruize 05</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>BoysWorkingIt.jpg</NAME>
+	<CAPTION>Boys Working It</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>BuhLat.jpg</NAME>
+	<CAPTION>BuhLat</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>Carlo.jpg</NAME>
+	<CAPTION>Carlo</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>DedriLaurenMaureen.jpg</NAME>
+	<CAPTION>Dedri Lauren Maureen</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>EdErinTamra.jpg</NAME>
+	<CAPTION>Ed Erin Tamra </CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>EnglishChris.jpg</NAME>
+	<CAPTION>English Chris</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>FlamencoNight.jpg</NAME>
+	<CAPTION>Flamenco Night</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>FubarCrew1.jpg</NAME>
+	<CAPTION>Fubar Crew</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>GracieBri.jpg</NAME>
+	<CAPTION>Gracie Bri</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>Halloween-Hottie50.jpg</NAME>
+	<CAPTION>Halloween - Hottie50</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>Halloween-OldGuys.jpg</NAME>
+	<CAPTION>Halloween 05 - Old Guys</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>HappyChappy.jpg</NAME>
+	<CAPTION>Happy Chappy</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>HotElyse.jpg</NAME>
+	<CAPTION>Hot Elyse</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>JohnAmanda.jpg</NAME>
+	<CAPTION>John Amanda</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>JohnBrian.jpg</NAME>
+	<CAPTION>John Brian</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>KangarooJack.jpg</NAME>
+	<CAPTION>Kangaroo Jack</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>MarshNic.jpg</NAME>
+	<CAPTION>Marsh Nic</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>MoJust.jpg</NAME>
+	<CAPTION>MoJust</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>NiceGuyEddie.jpg</NAME>
+	<CAPTION>Nice Guy Eddie</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>PartyGirls.jpg</NAME>
+	<CAPTION>Party Girls</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>Problem-Solution.JPG</NAME>
+	<CAPTION>Problem-Solution</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>SGTcaliente.jpg</NAME>
+	<CAPTION>SGT caliente</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>Saaid.jpg</NAME>
+	<CAPTION>Saaid</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>SnowmanParting.jpg</NAME>
+	<CAPTION>Snowman Parting</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>TheBoys.jpg</NAME>
+	<CAPTION>The Boys</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>TheBeers.jpg</NAME>
+	<CAPTION>The Beers</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>fubar_crowd.jpg</NAME>
+	<CAPTION>fubar crowd</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>john_on_elimidate.jpg</NAME>
+	<CAPTION>john on elimidate</CAPTION>
+</IMAGE>
+
+<IMAGE>
+	<NAME>shannon.jpg</NAME>
+	<CAPTION>shannon</CAPTION>
+</IMAGE>
+
+</SIMPLEVIEWER_DATA>
