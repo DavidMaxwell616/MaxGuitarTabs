@@ -163,7 +163,7 @@ case "":
 			   echo "</td>";
 			   echo "<td valign=\"top\" bgcolor=\"$warna2\" align=\"center\" width=\"15\">
 			         <a href=\"$self?do=del&id=$row[1]&page=$page\">
-					 <img src=\"imgs/del.gif\" alt=\"Delete entry # $no\" border=0 align=\"center\"></a>
+					 <img src=\"imgs/del.gif\" alt=\"Delete entry # $no\" align=\"center\"></a>
 					 </td>
 					 </tr>";
 			} //--end if		
