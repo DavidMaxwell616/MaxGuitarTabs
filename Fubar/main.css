@@ -4,11 +4,12 @@
 TD {
 	COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
 }
+H1, H2 {
+	COLOR: #ffffff;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
 A.footer:link {
 	COLOR: #ffcc00; TEXT-DECORATION: none
-}
-.footerstyle {
-	FONT-SIZE: 10px; COLOR: #e1dfc7
 }
 A.footer:visited {
 	COLOR: #ffcc00; TEXT-DECORATION: none
@@ -31,12 +32,7 @@ A.menu:hover {
 A.menu:visited {
 	COLOR: #ffff99; TEXT-DECORATION: none
 }
-.menusize {
-	FONT-SIZE: 10px
-}
-table,
-th,
-td {
-	border: 1px solid black;
-	border-collapse: collapse; 
+
+.bordered-table {
+	border: 1px solid white; 
 }
