@@ -36,3 +36,15 @@ A.menu:visited {
 .bordered-table {
 	border: 1px solid white; 
 }
+.title-div {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+
+.iframe {
+	height: 100%;
+	width: 100%;
+}
